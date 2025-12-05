@@ -1,0 +1,9 @@
+img {
+  width: 25vw;
+  max-width: 500px; /* controls how big the photo can get */
+  height: auto; /* important: keeps natural proportions */
+  border-radius: 12px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto; /* centers images */
+}
