@@ -9,7 +9,7 @@ const Home = () => {
   return (
     <div className="page-container">
       <h1>Contact Me!</h1>
-      <h3>You and me will be a great support team for the furry part of your family!</h3>
+      <h3>Let's work together to bring out the best in your dog!</h3>
       <br />
       <h2>
         📞 Phone:{" "}

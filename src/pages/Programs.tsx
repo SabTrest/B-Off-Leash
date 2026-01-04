@@ -11,7 +11,7 @@ const Home = () => {
     <div className="page-container">
       <h1>Here's What I Offer:</h1>
       <br></br>
-       <img src={boy} alt="cute dog 1" /> 
+       <img src={cutie} alt="cute dog 1" /> 
       <h2>Board and Trains:</h2>
       <p>1 week basic obediance</p>
       <p>2 week advanced obediance</p>
@@ -22,7 +22,7 @@ const Home = () => {
       <p>10 lessons advanced obediance</p>
       <div className="squiggle"></div>
 
-      <img src={cutie}  alt="cute dog 3" />
+      <img src={boy}  alt="cute dog 3" />
       <h2>Pet Sitting Services:</h2>
       <p>In-home overnights</p>
       <p>Drop-in visits</p>

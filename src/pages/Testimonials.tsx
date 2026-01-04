@@ -14,7 +14,7 @@ const testimonials = [
   },
   {
     name: 'Mia T.',
-    program: '10 lessons advanced obediance',
+    program: '1 week basic obediance',
     feedback:
       "When we first got Layla, our toy poodle, we had no idea where to start. She was using puppy pads inside, had separation anxiety, couldn’t stay in her crate, and was reactive toward everyone and everything. We worried that she was stressing out our older dog in the home and would only become more reactive with age. If you’ve ever owned a poodle you know they are little balls of sass and intelligence. That’s why it was so important for us to find someone we could trust with experience and proven success. And let me tell you- she did not disappoint. We were completely overwhelmed until we started working with Sam. She changed everything. Sam taught us what to do and helped Layla build confidence, structure, and calm. Now Layla is fully potty trained, comfortable in her crate, and can be around people and other dogs without any issues. Sam did such an amazing job I was able to fly with her on a 5 hour flight without a single issue. She slept the whole time and was so silent no one knew she was even on the plane. She also responds to corrections and actually understands the word “no,” which has made it so much easier to stop negative behaviors before they start. She’s like a whole new dog. We never could have done it without Sam and we’re so grateful for her.",
     img: laylaImg

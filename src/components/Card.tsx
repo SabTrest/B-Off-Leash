@@ -21,7 +21,7 @@ const Cards: React.FC = () => {
     {
       title: "My Beliefs",
       images: [closeup, tongue],
-      text: "I believe training should be a fun and tailored experience that gets you the results you are looking for! I believe in positive reinforcement and structured guidance on both ends of the leash! Dog training is about building, communication, freedom, and most importantly trust."    
+      text: "I believe training should be a fun and tailored experience that gets you the results you are looking for! I believe in positive reinforcement and structured guidance on both ends of the leash! Dog training is about building communication, freedom, and most importantly trust."    
     },
     {
       title: "Why I Do This",
