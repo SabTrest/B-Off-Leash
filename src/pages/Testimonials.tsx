@@ -4,6 +4,9 @@ import laylaImg from "../assets/layla.jpg";  // example image
 import dippyImg from "../assets/dippy.jpg";
 //import lunaImg from "../assets/luna.jpg";
 
+import haydenImg from "../assets/hayden.png";
+
+
 const testimonials = [
   {
     name: 'Marise M.',
@@ -20,10 +23,11 @@ const testimonials = [
     img: laylaImg
   },
   {
-    name: 'Jess & Mike T.',
-    program: '5 lessons basic obediance',
+    name: 'Dave W.',
+    program: 'Pet Sitting',
     feedback:
-      "We were blown away by the results after just a few sessions. Our dog listens so much better now. Her lessons were exactly what we needed."
+      "When my wife and I leave town we feel very fortunate to have found Sam who will come to our home and care for our dog Hayden and two cats......Boots and Tiger.  We can go away without any anxiety as we know Sam is dependable and will treat our pets like her own.   She always provides a nice touch by sending pics of our pets while we are away.  I would highly recommend her service for anyone looking for pet care when they can't be home.",
+    img: haydenImg
   },
   {
     name: 'Tanya S.',
