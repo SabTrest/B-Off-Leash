@@ -5,6 +5,9 @@ import About from './pages/About';
 import Contact from './pages/Contact';
 import Programs from './pages/Programs';
 import Testimonials from './pages/Testimonials';
+
+import { Analytics } from '@vercel/analytics/react';
+
 import './App.css';
 
 import Footer from './components/Footer';
@@ -24,6 +27,8 @@ const App = () => {
           <Route path="/programs" element={<Programs />} />
           <Route path="/testimonials" element={<Testimonials />} />
         </Routes>
+
+        <Analytics />
       </main>
       <Footer />
     </div>
